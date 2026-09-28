@@ -11,12 +11,11 @@ Smart Retail is a fictional e-commerce chain. In this project, I designed an int
 ![Executive Overview](Overview_Dashboard.png)
 
 ## Key Business Insights
-*(Đây là phần tóm tắt, vui lòng xem bản PDF đính kèm để đọc báo cáo chi tiết)*
-
-- **Revenue Trend:** [Điền 1 insight về doanh thu, ví dụ: Doanh thu tháng 6 giảm X% dù biên lợi nhuận giữ nguyên...]
-- **Operational Issue:** [Điền 1 insight về vận hành, ví dụ: Phát hiện sự cố tại kho hàng Berlin làm ảnh hưởng tỷ lệ hoàn thành đơn...]
-- **Product Strategy:** [Điền 1 insight về sản phẩm/khách hàng...]
-
+*(This is a brief summary. For deeper analysis, please refer to the attached PDF)
+- **Revenue Trend:** In June 2026, total revenue dropped by 18.7% (marking the 4th consecutive month of decline), yet the net profit margin remained highly stable at 18.3%. This indicates the revenue slump is driven by lower transaction frequency rather than pricing or cost structure issues.
+- **Localized Operational Issue:** Identified a severe fulfillment bottleneck at the Berlin Mitte store, where the Amazon order completion rate plummeted to 33.3% alongside a 65.9% drop in website sales, highlighting an operational hotspot rather than a general drop in customer demand.
+- **Service & Operations:** Despite an 8.5% improvement in overall customer ratings (reaching 3.15), the completed order rate dropped sharply by 10.2% (down to 71.49%). This points to immediate warehouse and supply chain roadblocks rather than poor customer service.
+- **Product Strategy:** The business is heavily over-reliant on a single brand (Apple generates 62.08% of total revenue). A sharp 44.0% decline in the top-selling MacBook Air M3 heavily impacted overall performance, though the smartphone category (iPhone 15) showed a promising 6.3% growth, presenting an opportunity for product diversification.
 ## Project Assets
-- **[Business Insights & Action Plan Report]()**: Comprehensive analysis using the "What - So What - Now What" framework.
-- **[Power BI Source File]()**: Contains Data Model and DAX Measures
+- **[Business Insights & Action Plan Report](SmartRetail_Insights.pdf)**: Comprehensive analysis using the "What - So What - Now What" framework.
+- **[Power BI Dashboard]()**: Contains Data Model and DAX Measures
