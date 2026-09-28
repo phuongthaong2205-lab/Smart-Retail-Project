@@ -18,4 +18,4 @@ Smart Retail is a fictional e-commerce chain. In this project, I designed an int
 - **Product Strategy:** The business is heavily over-reliant on a single brand (Apple generates 62.08% of total revenue). A sharp 44.0% decline in the top-selling MacBook Air M3 heavily impacted overall performance, though the smartphone category (iPhone 15) showed a promising 6.3% growth, presenting an opportunity for product diversification.
 ## Project Assets
 - **[Business Insights & Action Plan Report](SmartRetail_Insights.pdf)**: Comprehensive analysis using the "What - So What - Now What" framework.
-- **[Power BI Dashboard]()**: Contains Data Model and DAX Measures
+- **[Power BI Dashboard](<Smart Retail Project_NgoPhuongThao.pbix>)**: Contains Data Model and DAX Measures
