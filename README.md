@@ -1,4 +1,4 @@
-# Smart Retail - E-Commerce Performance Dashboard
+# Smart Retail: E-Commerce Performance Dashboard
 
 ## Project Context
 Smart Retail is a fictional e-commerce chain. In this project, I designed an interactive Power BI dashboard to analyze sales performance, track key operational metrics, and uncover the root causes of recent revenue fluctuations.
@@ -8,7 +8,7 @@ Smart Retail is a fictional e-commerce chain. In this project, I designed an int
 - **Focus:** Data Visualization, Data Modeling, Business Intelligence, Storytelling
 
 ## Dashboard Preview
-![Executive Overview]()
+![Executive Overview](Overview_Dashboard.png)
 
 ## Key Business Insights
 *(Đây là phần tóm tắt, vui lòng xem bản PDF đính kèm để đọc báo cáo chi tiết)*
