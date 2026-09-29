@@ -11,7 +11,7 @@ Smart Retail is a fictional e-commerce chain. In this project, I designed an int
 ![Executive Overview](Overview_Dashboard.png)
 
 ## Key Business Insights
-*(This is a brief summary. For deeper analysis, please refer to the attached PDF)
+_(This is a brief summary. For deeper analysis, please refer to the attached PDF.)_
 - **Revenue Trend:** In June 2026, total revenue dropped by 18.7% (marking the 4th consecutive month of decline), yet the net profit margin remained highly stable at 18.3%. This indicates the revenue slump is driven by lower transaction frequency rather than pricing or cost structure issues.
 - **Localized Operational Issue:** Identified a severe fulfillment bottleneck at the Berlin Mitte store, where the Amazon order completion rate plummeted to 33.3% alongside a 65.9% drop in website sales, highlighting an operational hotspot rather than a general drop in customer demand.
 - **Service & Operations:** Despite an 8.5% improvement in overall customer ratings (reaching 3.15), the completed order rate dropped sharply by 10.2% (down to 71.49%). This points to immediate warehouse and supply chain roadblocks rather than poor customer service.
