@@ -2,11 +2,15 @@
 
 ## Project Context
 Smart Retail is a fictional e-commerce chain. In this project, I designed an interactive Power BI dashboard to analyze sales performance, track key operational metrics, and uncover the root causes of recent revenue fluctuations.
-
+## Data Source
+Fictional dataset provided as a course exercise by DUA Edu (Data Upgrade Ability).
+All DAX measures, data model, dashboard design and insights below are my own work.
 ## Tools & Techniques
 - **Tool:** Power BI, Power Query, DAX
 - **Focus:** Data Visualization, Data Modeling, Business Intelligence, Storytelling
-
+## Data Model & DAX
+- Flat file model (Order → Store → Product → Channel), 4 dashboard pages: Executive Overview, Sales Performance, Product Analysis, Operations & Service
+- Key DAX measures: Total Revenue, Gross Profit, Net Profit Margin, % Revenue Variance vs. Prior Period, Average Order Value, Completed Order Rate
 ## Dashboard Preview
 | Executive Overview | Sales Performance |
 |---|---|
