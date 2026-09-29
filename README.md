@@ -8,7 +8,11 @@ Smart Retail is a fictional e-commerce chain. In this project, I designed an int
 - **Focus:** Data Visualization, Data Modeling, Business Intelligence, Storytelling
 
 ## Dashboard Preview
-![Executive Overview](Overview_Dashboard.png)
+| Executive Overview | Sales Performance |
+|---|---|
+| ![Overview](Overview_Dashboard.png) | ![Sales](Sales_Performance.png) |
+| **Product Analysis** | **Operations & Service** |
+| ![Product](Product_Analysis.png) | ![Ops](Operations_Service.png) |
 
 ## Key Business Insights
 _(This is a brief summary. For deeper analysis, please refer to the attached PDF.)_
