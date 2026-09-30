@@ -19,11 +19,15 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 | ![Product](Product_Analysis.png) | ![Ops](Operations_Service.png) |
 
 ## Key Business Insights
-_(This is a brief summary. For deeper analysis, please refer to the attached PDF.)_
-- **Revenue Trend:** In June 2026, total revenue dropped by 18.7% (marking the 4th consecutive month of decline), yet the net profit margin remained highly stable at 18.3%. This indicates the revenue slump is driven by lower transaction frequency rather than pricing or cost structure issues.
-- **Localized Operational Issue:** Identified a severe fulfillment bottleneck at the Berlin Mitte store, where the Amazon order completion rate plummeted to 33.3% alongside a 65.9% drop in website sales, highlighting an operational hotspot rather than a general drop in customer demand.
-- **Service & Operations:** Despite an 8.5% improvement in overall customer ratings (reaching 3.15), the completed order rate dropped sharply by 10.2% (down to 71.49%). This points to immediate warehouse and supply chain roadblocks rather than poor customer service.
-- **Product Strategy:** The business is heavily over-reliant on a single brand (Apple generates 62.08% of total revenue). A sharp 44.0% decline in the top-selling MacBook Air M3 heavily impacted overall performance, though the smartphone category (iPhone 15) showed a promising 6.3% growth, presenting an opportunity for product diversification.
+*(Brief summary, all changes are June 2026 vs. May 2026. For deeper analysis, see the attached report.)*
+
+- **Revenue Trend:** In June 2026, revenue fell 18.7% month-over-month (€304.70K → €247.68K), the 4th consecutive monthly decline, while net profit margin held steady at 18.3%. The slump is a volume problem, not a margin problem: placed orders fell 15.0% and the completion rate fell 8.1 points, partly offset by a 6.5% rise in average order value.
+
+- **Localized Operational Issue:** Berlin Mitte's completion rate fell from 85.4% to 68.1% (the sharpest drop in the chain), alongside a 65.9% drop in website revenue. Website and Otto also declined across several stores while Amazon grew, pointing to channel- and process-level issues (e.g., order handling, stock synchronisation) rather than weak demand in one city.
+
+- **Service & Operations:** The average rating rose 8.5% to 3.15, but this is largely a return to normal after May's low (2.90). The completed order rate fell 8.1 points to 71.49% (−10.2% in relative terms), making fulfilment and cancellations the priority to investigate. The dataset has no cancellation-reason field, so causes remain hypotheses.
+
+- **Product Strategy:** Apple generates 62.08% of revenue. The MacBook Air M3 fell 44.0% (€100.0K → €56.0K) at an unchanged price, accounting for about 77% of the chain's revenue decline. Smartphones grew 7.7% (iPhone 15 +6.3%, Galaxy S24 +10.5%), an opportunity to diversify beyond Apple.
 ## Project Assets
 - **[Business Insights & Action Plan Report](SmartRetail_Insights.pdf)**: Comprehensive analysis using the "What - So What - Now What" framework.
 - **[Power BI Dashboard](SmartRetail_Dashboard.pbix)**: Contains Data Model and DAX Measures
