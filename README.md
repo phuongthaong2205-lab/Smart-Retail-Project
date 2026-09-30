@@ -31,10 +31,10 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 - **Product Strategy:** Apple generates 62.08% of revenue. The MacBook Air M3 fell 19.0% at an unchanged price, while smartphones grew 22.5% (iPhone 15 +23.2%), an opportunity to diversify beyond Apple.
 
 ## Limitations
-June contains only 25 days of orders. The dashboard's % variance measure compares against the previous full period, so it overstates declines while a month is incomplete. The report uses equal-day ranges instead.
-The like-for-like windows are short, and store × channel figures rest on only 3–11 completed orders per period, so they are signals, not conclusions.
-The dataset has no cancellation reasons, fixed costs, competitor data or stock data, so the causes named in the report are hypotheses to test.
-The data is fictional (course exercise).
+- June contains only 25 days of orders. The dashboard's % variance measure compares against the previous full period, so it overstates declines while a month is incomplete. The report uses equal-day ranges instead.
+- The like-for-like windows are short, and store × channel figures rest on only 3–11 completed orders per period, so they are signals, not conclusions.
+- The dataset has no cancellation reasons, fixed costs, competitor data or stock data, so the causes named in the report are hypotheses to test.
+- The data is fictional (course exercise).
 ## Project Assets
 - **[Business Insights & Action Plan Report](SmartRetail_Insights.pdf)**: Comprehensive analysis using the "What - So What - Now What" framework.
 - **[Power BI Dashboard](SmartRetail_Dashboard.pbix)**: Contains Data Model and DAX Measures.
