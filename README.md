@@ -16,7 +16,7 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 |---|---|
 | ![Overview](Overview_Dashboard.png) | ![Sales](Sales_Performance.png) |
 | **Product Analysis** | **Operations & Service** |
-| ![Product](Product_Analysis.png) | ![Ops](Operations_Service.png) |
+| ![Product](Products_Analysis.png) | ![Ops](Operation_Service.png) |
 
 ## Key Business Insights
 *(Brief summary, all changes are June 2026 vs. May 2026. For deeper analysis, see the attached report.)*
