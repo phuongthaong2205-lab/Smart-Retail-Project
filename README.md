@@ -30,4 +30,4 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 - **Product Strategy:** Apple generates 62.08% of revenue. The MacBook Air M3 fell 44.0% (€100.0K → €56.0K) at an unchanged price, accounting for about 77% of the chain's revenue decline. Smartphones grew 7.7% (iPhone 15 +6.3%, Galaxy S24 +10.5%), an opportunity to diversify beyond Apple.
 ## Project Assets
 - **[Business Insights & Action Plan Report](SmartRetail_Insights.pdf)**: Comprehensive analysis using the "What - So What - Now What" framework.
-- **[Power BI Dashboard](SmartRetail_Dashboard.pbix)**: Contains Data Model and DAX Measures
+- **[Power BI Dashboard](SmartRetail_Dashboard.pbix)**: Contains Data Model and DAX Measures.
