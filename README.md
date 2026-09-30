@@ -20,14 +20,13 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 
 ## Key Business Insights
 *(Brief summary, all changes are June 2026 vs. May 2026. For deeper analysis, see the attached report.)*
+- **Revenue Trend:** The dashboard shows revenue down 18.7% in June, but this compares 25 days of June with the full month of May. Like-for-like, revenue rose 6.8% and revenue per day is flat (~€9.9K), while net profit margin held at 18.3%. Revenue per day did fall ~25% between February and May, so the earlier decline is real but stabilised in June.
 
-- **Revenue Trend:** In June 2026, revenue fell 18.7% month-over-month (€304.70K → €247.68K), the 4th consecutive monthly decline, while net profit margin held steady at 18.3%. The slump is a volume problem, not a margin problem: placed orders fell 15.0% and the completion rate fell 8.1 points, partly offset by a 6.5% rise in average order value.
+- **Completion Rate:** The completed order rate fell to 71.5% (from a 78–82% range) while placed orders rose 8.3%, worth about €26K of June revenue. The drop is sharpest at Berlin Mitte (−17.2 pts) and Frankfurt (−14.6 pts) and on Website (−17.9 pts) and Otto (−12.6 pts), pointing to channel- and process-level issues rather than weak demand. Causes remain hypotheses (no cancellation-reason data).
 
-- **Localized Operational Issue:** Berlin Mitte's completion rate fell from 85.4% to 68.1% (the sharpest drop in the chain), alongside a 65.9% drop in website revenue. Website and Otto also declined across several stores while Amazon grew, pointing to channel- and process-level issues (e.g., order handling, stock synchronisation) rather than weak demand in one city.
+- **Regional & Channel Shifts:** Central is the only region with lower revenue (−21.4%) while North (+16.2%) and South (+28.4%) grew; Amazon (+85.7%) gained while Website (−22.8%) lost.
 
-- **Service & Operations:** The average rating rose 8.5% to 3.15, but this is largely a return to normal after May's low (2.90). The completed order rate fell 8.1 points to 71.49% (−10.2% in relative terms), making fulfilment and cancellations the priority to investigate. The dataset has no cancellation-reason field, so causes remain hypotheses.
-
-- **Product Strategy:** Apple generates 62.08% of revenue. The MacBook Air M3 fell 44.0% (€100.0K → €56.0K) at an unchanged price, accounting for about 77% of the chain's revenue decline. Smartphones grew 7.7% (iPhone 15 +6.3%, Galaxy S24 +10.5%), an opportunity to diversify beyond Apple.
+- **Product Strategy:** Apple generates 62.08% of revenue. The MacBook Air M3 fell 19.0% at an unchanged price, while smartphones grew 22.5% (iPhone 15 +23.2%), an opportunity to diversify beyond Apple.
 ## Project Assets
 - **[Business Insights & Action Plan Report](SmartRetail_Insights.pdf)**: Comprehensive analysis using the "What - So What - Now What" framework.
 - **[Power BI Dashboard](SmartRetail_Dashboard.pbix)**: Contains Data Model and DAX Measures.
