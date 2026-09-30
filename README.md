@@ -1,7 +1,7 @@
 # Smart Retail: E-Commerce Performance Dashboard
 
 ## Project Context
-Smart Retail is a fictional e-commerce chain. In this project, I designed an interactive Power BI dashboard to analyze sales performance, track key operational metrics, and uncover the root causes of recent revenue fluctuations.
+Smart Retail is a fictional e-commerce chain. In this project, I designed an interactive Power BI dashboard to analyze sales performance, track key operational metrics, and identify where the recent revenue movement comes from.
 ## Data Source
 Fictional dataset provided as a course exercise by DUA Edu (Data Upgrade Ability).
 All DAX measures, data model, dashboard design and insights below are my own work.
@@ -9,8 +9,8 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 - **Tool:** Power BI, Power Query, DAX
 - **Focus:** Data Visualization, Data Modeling, Business Intelligence, Storytelling
 ## Data Model & DAX
-- Flat file model (Order → Store → Product → Channel), 4 dashboard pages: Executive Overview, Sales Performance, Product Analysis, Operations & Service
-- Key DAX measures: Total Revenue, Gross Profit, Net Profit Margin, % Revenue Variance vs. Prior Period, Average Order Value, Completed Order Rate
+- Single flat table with one row per order (order, customer, store, product and channel attributes). Revenue counts completed orders only. Region refers to the customer's province, not the store.
+- 4 dashboard pages: Executive Overview, Sales Performance, Products Analysis, Operation & Service
 ## Dashboard Preview
 | Executive Overview | Sales Performance |
 |---|---|
