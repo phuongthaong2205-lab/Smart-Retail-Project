@@ -20,11 +20,11 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 
 ## Key Business Insights
 *(Brief summary, all changes are June 2026 vs. May 2026. For deeper analysis, see the attached report.)*
-- **Revenue Trend:** The dashboard shows revenue down 18.7% in June, but this compares 25 days of June with the full month of May. Like-for-like, revenue rose 6.8% and revenue per day is flat (~€9.9K), while net profit margin held at 18.3%. Revenue per day did fall ~25% between February and May, so the earlier decline is real but stabilised in June.
+- **Revenue Trend:** The dashboard shows revenue down 18.7% in June, but this compares 25 days of June with the full month of May. Like-for-like, revenue rose 6.8% and revenue per day is flat (~€9.9K), while net profit margin held at 18.3%. Revenue per day did fall ~25% between February and May, so the earlier decline is real but stabilized in June.
 
-- **Completion Rate:** The completed order rate fell to 71.5% (from a 78–82% range) while placed orders rose 8.3%, worth about €26K of June revenue. The drop is sharpest at Berlin Mitte (−17.2 pts) and Frankfurt (−14.6 pts) and on Website (−17.9 pts) and Otto (−12.6 pts), pointing to channel- and process-level issues rather than weak demand. Causes remain hypotheses (no cancellation-reason data).
+- **Completion Rate:** The completed order rate fell to 71.5% (from a 78–82% range) while placed orders rose 8.3%, worth about €26K of June revenue. The drop is sharpest at Berlin Mitte (−17.2 pts), while Frankfurt (−14.6 pts), on Website (−17.9 pts), and Otto (−12.6 pts), pointing to channel- and process-level issues rather than weak demand. Causes remain hypotheses (no cancellation-reason data).
 
-- **Regional & Channel Shifts:** Central is the only region with lower revenue (−21.4%) while North (+16.2%) and South (+28.4%) grew; Amazon (+85.7%) gained while Website (−22.8%) lost.
+- **Regional & Channel Shifts:** Central is the only region with lower revenue (−21.4%), while North (+16.2%) and South (+28.4%) grew; Amazon (+85.7%) gained while Website (−22.8%) lost.
 
 - **Product Strategy:** Apple generates 62.08% of revenue. The MacBook Air M3 fell 19.0% at an unchanged price, while smartphones grew 22.5% (iPhone 15 +23.2%), an opportunity to diversify beyond Apple.
 ## Project Assets
