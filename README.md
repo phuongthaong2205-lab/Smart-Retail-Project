@@ -20,7 +20,7 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 
 ## Key Business Insights
 *(Brief summary, all changes are June 2026 vs. May 2026. For deeper analysis, see the attached report.)*
-  _ **How to read the numbers: the dashboard is filtered to June 2026 and compares it with May 2026. Because the data ends on 25 June, the dashboard compares 25 days with 31. All percentages below are like-for-like (June 1–25 vs. May 1–25) unless marked otherwise, so they differ from the screenshots, which show the dashboard's full-May comparison.
+- How to read the numbers: the dashboard is filtered to June 2026 and compares it with May 2026. Because the data ends on 25 June, the dashboard compares 25 days with 31. All percentages below are like-for-like (June 1–25 vs. May 1–25) unless marked otherwise, so they differ from the screenshots, which show the dashboard's full-May comparison.
 - **Revenue Trend:** The dashboard shows revenue down 18.7% in June, but this compares 25 days of June with the full month of May. Like-for-like, revenue rose 6.8% and revenue per day is flat (~€9.9K), while net profit margin held at 18.3%. Revenue per day did fall ~25% between February and May, so the earlier decline is real but stabilized in June.
 
 - **Completion Rate:** The completed order rate fell to 71.5% (from a 78–82% range) while placed orders rose 8.3%, worth about €26K of June revenue. The drop is sharpest at Berlin Mitte (−17.2 pts), while Frankfurt (−14.6 pts), on Website (−17.9 pts), and Otto (−12.6 pts), pointing to channel- and process-level issues rather than weak demand. Causes remain hypotheses (no cancellation-reason data).
