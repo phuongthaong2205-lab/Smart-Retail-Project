@@ -9,7 +9,7 @@ All DAX measures, data model, dashboard design and insights below are my own wor
 - **Tool:** Power BI, Power Query, DAX
 - **Focus:** Data Visualization, Data Modeling, Business Intelligence, Storytelling
 ## Data Model & DAX
-- Single flat table with one row per order (order, customer, store, product and channel attributes). Revenue counts completed orders only. Region refers to the customer's province, not the store.
+- Star Schema with 2 Fact tables and 5 shared Dimensions with one row per order (order, customer, store, product and channel attributes). Revenue counts completed orders only. Region refers to the customer's province, not the store.
 - 4 dashboard pages: Executive Overview, Sales Performance, Products Analysis, Operation & Service
 ## Dashboard Preview
 | Executive Overview | Sales Performance |
